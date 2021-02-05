@@ -14,7 +14,7 @@ def shipping_manifest
   }
 end
  
-# 
+# Looking up and returning the value of the "oil paintings" key
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5, 
