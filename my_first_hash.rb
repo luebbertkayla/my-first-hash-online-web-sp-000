@@ -24,8 +24,7 @@ def retrieval
 shipping_manifest["oil paintings"]
 end
 
-
-
+# Adding key/value pairs using []
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
