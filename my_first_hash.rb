@@ -1,10 +1,11 @@
+# Creating a hash
 def my_hash
   favorite_things = {
     "favorite_animal" => "whale shark"
   }
 end
 
-
+# Creating a hash with multiple key/value pairs
 def shipping_manifest
   the_manifest = {
      "whale bone corsets" => 5, 
@@ -13,7 +14,7 @@ def shipping_manifest
   }
 end
  
-
+# 
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5, 
