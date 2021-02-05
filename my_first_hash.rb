@@ -1,5 +1,7 @@
 def my_hash
-  "favorite_animal" => "whale shark"
+  favorite_things = {
+    "favorite_animal" => "whale shark"
+  }
 end
 
 
